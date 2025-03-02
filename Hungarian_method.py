@@ -1,4 +1,4 @@
-# implementation of the Hungarian methode by SEK171
+# implementation of the Hungarian methode by YOUNES215
 
 # requires the numpy package
 
